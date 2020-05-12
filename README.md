@@ -1,3 +1,10 @@
+<h1> Simple credit card form </h1>
+
+![checkout-form-vgif](https://user-images.githubusercontent.com/39669220/81720647-5c677000-9487-11ea-8781-8fe715a4e23c.gif)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
